@@ -12,5 +12,5 @@ more text
 
 more text
 
-[wiki](https://github.com/pmaloney80/myfirst.wiki.git)
+[wiki](https://github.com/pmaloney80/repo2/wiki)
 
